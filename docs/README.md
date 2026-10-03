@@ -4,7 +4,18 @@
 
 Documents follow the AI-ML and GenAI Track project template structure and layout (SmartBridge / Skill Wallet).
 
-The **Team ID** is 12.
+## Team
+
+- **Team ID:** SWTID-2026-8368
+- **Team Leader:** Nivriti Muthu Vairavan
+
+| # | Name |
+|---|------|
+| 1 | Nivriti Muthu Vairavan |
+| 2 | Fathima Fahmiya S |
+| 3 | Mounika K M |
+| 4 | Tharun P |
+| 5 | Yuvaraj B |
 
 ## 1. Brainstorming & Ideation
 - [Brainstorming & Idea Prioritization.pdf](1.%20Brainstorming%20&%20Ideation/Brainstorming%20&%20Idea%20Prioritization.pdf) - Brainstorming grid and idea prioritisation.
@@ -49,10 +60,10 @@ The **Team ID** is 12.
 | Folder | Owner |
 |--------|-------|
 | 1. Brainstorming & Ideation | Fathima Fahmiya S (support: Yuvaraj B) |
-| 2. Requirement Analysis | Fathima Fahmiya S (support: Nivriti Muthuvairan) |
-| 3. Project Design Phase | Nivriti Muthuvairan (support: Fathima Fahmiya S) |
+| 2. Requirement Analysis | Fathima Fahmiya S (support: Nivriti Muthu Vairavan) |
+| 3. Project Design Phase | Nivriti Muthu Vairavan (support: Fathima Fahmiya S) |
 | 4. Project Planning Phase | Fathima Fahmiya S |
-| 5. Project Development Phase | Mounika M and Nivriti Muthuvairan |
+| 5. Project Development Phase | Mounika K M and Nivriti Muthu Vairavan |
 | 6.Project Testing | Tharun P |
 | 7.Project Documentation | Yuvaraj B |
 | 8.Project Demonstration | Yuvaraj B (support: whole team) |
@@ -63,8 +74,8 @@ Made by Team ComicCraft:
 
 | # | Name | Role | Contribution |
 |---|------|------|--------------|
-| 1 | Fathima Fahmiya S | Project Lead & Backend Developer | Planning and coordination; FastAPI routes, form handling, JSON API, error handling, Gemini outline and story integration |
-| 2 | Nivriti Muthuvairan | AI & Image Engineer | Stable Diffusion v1.5 pipeline, MPS/fp16 optimisation, warm-up, prompt design for panel images |
-| 3 | Mounika M | Frontend & UI/UX Developer | Jinja2 templates, glass-style home page, background, responsive CSS, loading state |
+| 1 | Fathima Fahmiya S | Backend Developer | FastAPI routes, form handling, JSON API, error handling, Gemini outline and story integration |
+| 2 | Nivriti Muthu Vairavan | Team Leader & AI/Image Engineer | Planning and coordination; Stable Diffusion v1.5 pipeline, MPS/fp16 optimisation, warm-up, prompt design for panel images |
+| 3 | Mounika K M | Frontend & UI/UX Developer | Jinja2 templates, glass-style home page, background, responsive CSS, loading state |
 | 4 | Tharun P | Testing & QA Engineer | pytest suite (24 tests, mocked AI), smoke and performance tests, quota and error scenarios |
 | 5 | Yuvaraj B | Documentation & Demo Coordinator | Project documents, README, PDF export and layout builder checks, demo planning |
