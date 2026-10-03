@@ -30,6 +30,12 @@ take several minutes and requires substantial disk space and memory. Image
 generation speed depends on the available hardware. The application selects
 CUDA when available, Apple MPS on supported Macs, and CPU otherwise.
 
+## Architecture
+
+The diagram below is the architecture diagram from the project specification.
+
+![ComicCraft application architecture](docs/architecture.png)
+
 ## Requirements
 
 - Python 3.10 or newer with versions compatible with the packages in
