@@ -1,4 +1,5 @@
-fastapi
+pytest
+httpxfastapi
 uvicorn
 jinja2
 python-multipart
