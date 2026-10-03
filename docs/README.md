@@ -1,5 +1,7 @@
 # ComicCraft - Project Deliverables
 
+**Madras Institute of Technology** | Department of Computer Technology (CT) | III Year, V Semester | Project period: 1 Oct 2026 - 2 Oct 2026
+
 Documents follow the AI-ML and GenAI Track project template structure.
 
 ## 1. Brainstorming & Ideation
@@ -38,16 +40,29 @@ Documents follow the AI-ML and GenAI Track project template structure.
 - [Demonstration of Proposed Features.pdf](8.Project%20Demonstration/Demonstration%20of%20Proposed%20Features.pdf) - Feature-by-feature demo script.
 - [Project Demo Planning.pdf](8.Project%20Demonstration/Project%20Demo%20Planning.pdf) - Demo preparation, agenda and fallbacks.
 - [Scalability & Future Plan.pdf](8.Project%20Demonstration/Scalability%20&%20Future%20Plan.pdf) - Scaling approach and roadmap.
-- [Team Involvement in Demonstration.pdf](8.Project%20Demonstration/Team%20Involvement%20in%20Demonstration.pdf) - Roles in project and demonstration (names to fill in).
+- [Team Involvement in Demonstration.pdf](8.Project%20Demonstration/Team%20Involvement%20in%20Demonstration.pdf) - Roles in project and demonstration.
+
+## Document Owners
+
+| Folder | Owner |
+|--------|-------|
+| 1. Brainstorming & Ideation | Fathima Fahmiya S (support: Yuvaraj B) |
+| 2. Requirement Analysis | Fathima Fahmiya S (support: Nivriti Muthuvairan) |
+| 3. Project Design Phase | Nivriti Muthuvairan (support: Fathima Fahmiya S) |
+| 4. Project Planning Phase | Fathima Fahmiya S |
+| 5. Project Development Phase | Mounika M and Nivriti Muthuvairan |
+| 6.Project Testing | Tharun P |
+| 7.Project Documentation | Yuvaraj B |
+| 8.Project Demonstration | Yuvaraj B (support: whole team) |
 
 ## Team Members
 
 Made by Team ComicCraft:
 
-| # | Name |
-|---|------|
-| 1 | Fathima Fahmiya S |
-| 2 | Nivriti Muthuvairan |
-| 3 | Mounika M |
-| 4 | Tharun P |
-| 5 | Yuvaraj B |
+| # | Name | Role | Contribution |
+|---|------|------|--------------|
+| 1 | Fathima Fahmiya S | Project Lead & Backend Developer | Planning and coordination; FastAPI routes, form handling, JSON API, error handling, Gemini outline and story integration |
+| 2 | Nivriti Muthuvairan | AI & Image Engineer | Stable Diffusion v1.5 pipeline, MPS/fp16 optimisation, warm-up, prompt design for panel images |
+| 3 | Mounika M | Frontend & UI/UX Developer | Jinja2 templates, glass-style home page, background, responsive CSS, loading state |
+| 4 | Tharun P | Testing & QA Engineer | pytest suite (10 tests, mocked AI), smoke and performance tests, quota and error scenarios, UAT scenarios |
+| 5 | Yuvaraj B | Documentation & Demo Coordinator | Project documents, README, PDF export and layout builder checks, demo planning |
