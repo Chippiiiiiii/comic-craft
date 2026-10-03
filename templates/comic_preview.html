@@ -102,8 +102,7 @@
             <p><strong>Narration:</strong> {{ panel.text }}</p>
             <p class="ref">Image prompt: {{ panel.image_prompt }}</p>
         </div>{% endfor %}
-        <div class="center"><a class="btn" href="{{ pdf_path }}" download
-                onclick="setTimeout(function(){location.href='/export-success?pdf={{ pdf_path | urlencode }}'},800)">Download
+        <div class="center"><a class="btn" href="/export-success?pdf={{ pdf_path | urlencode }}">Download
                 Your Comic as PDF</a></div>
     </div>
 </body>

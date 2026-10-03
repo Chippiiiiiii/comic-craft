@@ -95,7 +95,9 @@
     <div class="card center">
         <h1>Comic Exported!</h1>
         <p>Your AI-powered comic was created and downloaded successfully.</p>
-        {% if pdf_path %}<p class="ref">Saved as {{ pdf_path.split('/')[-1] }}</p>{% endif %}
+        {% if pdf_path %}<p class="ref">Saved as {{ pdf_path.split('/')[-1] }}</p>
+        <a class="btn" id="dl" href="{{ pdf_path }}" download>Download PDF</a>
+        <script>document.getElementById('dl').click();</script>{% endif %}
         <a class="btn" href="/">Go Create Another Comic</a>
     </div>
 </body>
